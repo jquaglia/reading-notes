@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/stubtail42/reading-notes201/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## **Jason Quaglia** :bowtie:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a 26 year old student at CodeFellows. I live in downtown Seattle with my girlfriend and our dog Bentley. Some of the things I like to do in my free time are gaming, hiking, camping, snowboarding, and of course I love tinkering with computers and technology. I'm hoping to become a software engineer to better myself and my life. I've always loved computers and technology and hope to bring some of that passion into a career. Hopefully, with the help of CodeFellows I can make that come to fruition. This is my reading notes on CSS, HTML, and JavaScript from the code 201 course. I will be continually updating this page throughout the 201 class.
 
-### Markdown
+## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stubtail42/reading-notes201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Class 01](class-01.md)
+- [Class 02](class-01.md)
+- [Class 03](class-01.md)
+- [Class 04](class-01.md)
+- [Class 05](class-01.md)
+- [Class 06](class-01.md)
+- [Class 08](class-01.md)
+- [Class 09](class-01.md)
+- [Class 010](class-01.md)
+- [Class 011](class-01.md)
+- [Class 012](class-01.md)
+- [Class 013](class-01.md)
+- [Class 014](class-01.md)
+- [Class 015](class-01.md)
