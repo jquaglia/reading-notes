@@ -18,7 +18,7 @@ By enclosing words in the `<b></b>` tags, we can make words **bold**. We can als
 
 ### Superscript and Subscript
 
-The `<sup></sup>` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 2<sup>2</sup>. The `<sub></sub>` element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H<sub>2</sub>O.
+The `<sup></sup>` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as `2<sup>2</sup>`. The `<sub></sub>` element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as `H<sub>2</sub>O`.
 
 ### White Space
 
@@ -105,7 +105,7 @@ Many common selectors in CSS are as follows below. They determine what the style
 
 - `* {}` universal selector targets all elements
 
-- `h1, h2, h3 {}` targets heading tags 
+- `h1, h2, h3 {}` targets heading tags
 
 - `.note {}` targets and element whose class attribute has a value of note
 
@@ -228,7 +228,7 @@ There is just one string operator: the `+` symbol. it is used to joing the strin
 
 `!==` strict not equals to
 
-`>` greater than 
+`>` greater than
 
 `<` less than
 
