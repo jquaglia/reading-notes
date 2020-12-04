@@ -92,3 +92,5 @@ Many details about sizing on page 275 in the book.
 - You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 
 - you can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.(or when it is active)
+
+[back to README](README.md)
