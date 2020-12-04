@@ -21,3 +21,7 @@ I'm a 26 year old student at _CodeFellows_. I live in downtown Seattle with my g
 - [Class 13](class-13.md)
 - [Class 14](class-14.md)
 - [Class 15](class-15.md)
+
+## Extra Notes
+
+- [AWSreInvent Observability](AWSreInvent.md)
