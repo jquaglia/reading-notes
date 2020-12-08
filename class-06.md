@@ -104,3 +104,5 @@ Once you have an element node, you can use other properties and methods on that 
 - In older browsers, implememntation of the DOM is inconsistent (and is popular reason for using jQuery)
 
 - Browsers offer tools for viewing the DOM tree.
+
+[back to README](README.md)
