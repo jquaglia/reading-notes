@@ -77,7 +77,7 @@ As mentioned, for a transition to take place, an element must have a change in s
 
 - High levels of Psychological Safety!
 
-- they put the new info to the test with Matt Sakaguchi
+- They put the new info to the test with Matt Sakaguchi
 
 - No one wants to put on a work-face when they get to work. They don't want to leave a part of their personality at home. (They want to feel psychologically safe)
 
