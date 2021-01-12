@@ -190,3 +190,5 @@ Specifically `iframes` do not work well with the `max-width` property. There is 
 - If a video has an aspect ratio of 16:9, 9 divided by 16 equals .5625, thus requiring a bottom padding of 56.25%.
 
 - Padding on the bottom and not the top is specifically used to prevent Internet Explorer 5.5 from breaking, and treating the parent element as an absolutely positioned element.
+
+[back to README](README.md)
