@@ -49,3 +49,21 @@ I'm a 26 year old student at _CodeFellows_. I live in downtown Seattle with my g
 - [Class 15](class-30.md)
 
 ## Code 401 - Advanced Software Development
+
+### 401 Table of Contents
+
+- [Class 01](class-31.md)
+- [Class 02](class-32.md)
+- [Class 03](class-33.md)
+- [Class 04](class-34.md)
+- [Class 05](class-35.md)
+- [Class 06](class-36.md)
+- [Class 07](class-37.md)
+- [Class 08](class-38.md)
+- [Class 09](class-39.md)
+- [Class 10](class-40.md)
+- [Class 11](class-41.md)
+- [Class 12](class-42.md)
+- [Class 13](class-43.md)
+- [Class 14](class-44.md)
+- [Class 15](class-45.md)
