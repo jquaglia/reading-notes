@@ -15,3 +15,5 @@ A call stack is a mechanism for an interpreter to keep track of its place in a s
 - in Asynchronous JavaScript, we have callback function, an event loop, and a task queue.
 
 - LIFO: last in, first out
+
+[back to README](../README.md)

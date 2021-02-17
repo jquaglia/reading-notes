@@ -93,4 +93,4 @@ Many details about sizing on page 275 in the book.
 
 - you can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.(or when it is active)
 
-[back to README](README.md)
+[back to README](../README.md)

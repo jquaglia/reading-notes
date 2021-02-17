@@ -138,4 +138,4 @@ var today = new Date();
 
 - Arrays and objects can be used to create complex sets (and both can contain the other).
 
-[back to README](README.md)
+[back to README](../README.md)

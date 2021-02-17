@@ -40,4 +40,4 @@ OpenTelemetry enables developers to use a standardized set of open source APIs a
 
 - With open source, build portable observability systems (e.g. on-premises to cloud migration)
 
-[back to README](README.md)
+[back to README](../README.md)

@@ -42,4 +42,4 @@
 
 1. It's the right thing to do.
 
-[back to README](README.md)
+[back to README](../README.md)

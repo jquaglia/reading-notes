@@ -30,4 +30,4 @@ The Post Method
 
 - When the form is submitted using the `POST` method, you get no data appended to the URL.
 
-[back to README](README.md)
+[back to README](../README.md)

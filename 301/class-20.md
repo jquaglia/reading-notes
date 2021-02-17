@@ -10,4 +10,4 @@
 
 - `dyno` is a lightweight container that runs the command in the `Procfile` (`ps` is command to check dynos running)
 
-[back to README](README.md)
+[back to README](../README.md)
