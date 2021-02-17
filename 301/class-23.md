@@ -10,4 +10,4 @@ SQL, or Structured Query Language, is a language designed to allow both technica
 
 - A query in itself is just a statement which declares what data we are looking for, where to find it in the database, and optionally, how to transform it before it is returned.
 
-[back to README](README.md)
+[back to README](../README.md)

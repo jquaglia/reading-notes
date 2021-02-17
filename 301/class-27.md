@@ -16,4 +16,4 @@ post page:
 
 - As you can see, they both use the same header. These are great candidates for partials!
 
-[back to README](README.md)
+[back to README](../README.md)

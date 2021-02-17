@@ -105,4 +105,4 @@ Once you have an element node, you can use other properties and methods on that 
 
 - Browsers offer tools for viewing the DOM tree.
 
-[back to README](README.md)
+[back to README](../README.md)

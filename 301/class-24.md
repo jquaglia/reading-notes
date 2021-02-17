@@ -115,4 +115,4 @@ The idea of functions as first-class entities is that functions are also treated
 
 - return it as a result from other functions
 
-[back to README](README.md)
+[back to README](../README.md)

@@ -10,4 +10,4 @@
 
 - EJS lets us spin up quick applications when you don’t need anything too complex. By using partials and having the ability to easily pass variables to our views, can build some applications quickly.
 
-[back to README](README.md)
+[back to README](../README.md)

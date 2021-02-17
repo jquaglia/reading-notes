@@ -52,4 +52,4 @@ Ideal web storage would have
 
 - this has only been implemented in a beta version of firefox 4 (Mozilla said they will never use Web SQL)
 
-[back to README](README.md)
+[back to README](../README.md)

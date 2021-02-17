@@ -56,4 +56,4 @@ Node's execution model causes the server very little overhead, and consequently 
 
 Node is particularly suited to building applications that require some form of real-time interaction or collaboration - for example, chat sites or apps such as [CodeShare](https://codeshare.io/), where you can watch a document being edited live by someone else.
 
-[back to README](README.md)
+[back to README](../README.md)

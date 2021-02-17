@@ -105,4 +105,4 @@ This is an example of a bar chart for a single dataset using Chart.js.
 
 - `strokeText(text, x, y [, maxWidth])` strokes a given text at the given (x, y) position. Optionally with a maximum width to draw.
 
-[back to REAME](README.md)
+[back to REAME](../README.md)

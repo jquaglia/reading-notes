@@ -48,4 +48,4 @@
 
 I was so uncertain the first time I pair programmed. The very next time I realized just how important and effective it actually was. I learned so much and got to completely see a different perspective. Ever since then I was sold on the benefits and definitely see how valuable it is for both sides. Both sides gets to learn more about programming and they get to practice social skills and gain a new perspective.
 
-[back to README](README.md)
+[back to README](../README.md)
