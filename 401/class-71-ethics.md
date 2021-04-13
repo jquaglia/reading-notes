@@ -1,0 +1,9 @@
+# Ethics in Tech
+
+## The Code I'm still ashamed of
+
+- Wow this article was pretty real. One of the major reasons I want to get into tech is to help make the world a better place. I haven't really seen or heard about a specific case like this but actually reading it is harrowing. I'm happy to say that one of the reasons I'm going into the tech industry is so I can help keep companies ethical from the inside. It's one of the main reason's why I am here. When the time comes that something unethical is asked of me, hopefully my company will be alright with my decision. I plan on putting a stop to things like that. A company that doesn't back up it's employees ethical and moral decisions is not a company I want to work for anyways. It's always super heartening to hear how much this matters to everyone in tech. I'm glad to be reading and learning about cases like this so it's not something I sleep on. (or any of the other more positive ones)
+
+## The cybersecurity risk of self-driving cars
+
+- This was an interesting read. It's definitely something we need to think about as everything in our world relies more and more on software. This is applicable to things other than cars too albeit a hacked car would be significantly more dangerous than a smart fridge. My brain instantly tries to think of a way to solve this issue but really it seems like society needs to collectively step up and keep some things off limits. I think I agree with the article that it would be in our best interest to have some sort of guidelines defined by the government to be upheld by car manufacturers. Just a basic set of secure coding practices and ethical guidlines (no ads, no selling location data). The manufacturers could then supplemant that with their own policies as well. The future sure will be interesting.

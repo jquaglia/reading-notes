@@ -86,3 +86,7 @@ I'm a 26 year old student at _CodeFellows_. I live in downtown Seattle with my g
 - [Class 38](401/class-68.md)
 - [Class 39](401/class-69.md)
 - [Class 40](401/class-70.md)
+
+### Ethics in Tech
+
+- [Class 42](401/class-71-ethics.md)
